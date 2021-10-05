@@ -20,7 +20,7 @@ REACT_APP_FIREBASE_AUTH_DOMAIN={auth-domain-goes-here}\
 REACT_APP_FIREBASE_PROJECT_ID={project-id-goes-here}\
 REACT_APP_FIREBASE_STORAGE_BUCKET={storage-bucket-goes-here}\
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID={messaging-sender-id-goes-here}\
-REACT_APP_FIREBASE_APP_ID={app-id-goes-here}\
+REACT_APP_FIREBASE_APP_ID={app-id-goes-here}
 
 ### 3. npm start or yarn start
 
