@@ -1,4 +1,4 @@
-# Base Authentcation System
+# Base Authentication System
 
 This is my base auth system used for my projects, it can be used with any backend but is written for firebase.
 
